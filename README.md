@@ -35,8 +35,8 @@ Participation in events is voluntary.
 **Article 5 – Coordination and Representation**
 
 The Vistula-Sakura is coordinated by two Coordinators (also referred to as “Co-Chairs”):
-- One representative is Japanese (proposed Dr. Ryuichiro HATAYA, SB Intuitions and Kyoto University - https://hataya.tokyo/)
-- One representative is Polish (proposed Prof. Edyta DZIEMIŃSKA, Sophia University - https://pweb.cc.sophia.ac.jp/edyta/)
+- One representative is Japanese (proposed [Dr. Ryuichiro HATAYA, SB Intuitions and Kyoto University](https://hataya.tokyo/))
+- One representative is Polish (proposed [Prof. Edyta DZIEMIŃSKA, Sophia University](https://pweb.cc.sophia.ac.jp/edyta/))
 
 The Coordinators:
 - Oversee the organization of events and initiatives.
