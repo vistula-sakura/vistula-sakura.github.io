@@ -1,8 +1,6 @@
-# Vistula – Sakura 
-
-Polsko-Japońskie Forum Nauki i Innowacji  
-The Polish-Japanese Research and Innovation Forum  
-ポーランド・日本研究・イノベーションフォーラム  
+**Polsko-Japońskie Forum Nauki i Innowacji**  
+**The Polish-Japanese Research and Innovation Forum**  
+**ポーランド・日本研究・イノベーションフォーラム**  
 
 ## Status
 
