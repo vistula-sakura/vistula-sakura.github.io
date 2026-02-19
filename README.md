@@ -1,17 +1,17 @@
 # Vistula – Sakura 
 
-Polsko-Japońskie Stowarzyszenie Nauki i Innowacji  
-The Polish-Japanese Research and Innovation Association  
-ポーランド・日本研究・イノベーション協会  
+Polsko-Japońskie Forum Nauki i Innowacji  
+The Polish-Japanese Research and Innovation Forum  
+ポーランド・日本科学イノベーションフォーラム  
 
 ## Status
 
 **Article 1 – Name and Nature**
 
-The name of this organization is  Vistula-Sakura, The Polish-Japanese Research and Innovation Association.  
+The name of this organization is  Vistula-Sakura, The Polish-Japanese Research and Innovation Forum.  
 The Vistula-Sakura is a non-profit, voluntary networking organization that connects scientists, engineers, and professionals from Poland and Japan. 
 Vistula-Sakura has no legal personality, no bank account, and no financial activity. 
-The Vistula-Sakura Association has been granted the Honorary Patronage of the Embassy of the Republic of Poland in Tokyo.
+The Vistula-Sakura Forum has been granted the Honorary Patronage of the Embassy of the Republic of Poland in Tokyo.
 
 **Article 2 – Purpose**
 
@@ -45,7 +45,7 @@ The Coordinators:
 
 **Article 6 – Communication**
 
-The main channel of communication is the official website of the Association, and additional digital platforms of the Association as appropriate (e.g. email lists, social media).
+The main channel of communication is the official website of the Forum, and additional digital platforms of the Forum as appropriate (e.g. email lists, social media).
 All official announcements, event information, and updates are published there by the Coordinators.
 
 **Article 7 – Finances**
