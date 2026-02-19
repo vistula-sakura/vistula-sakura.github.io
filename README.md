@@ -1,7 +1,3 @@
----
-layout: null
----
-
 # Vistula – Sakura 
 
 Polsko-Japońskie Forum Nauki i Innowacji  
