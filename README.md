@@ -7,10 +7,10 @@
 
 ### Article 1 – Name and Nature
 
-The name of this organization is  Vistula-Sakura, The Polish-Japanese Research and Innovation Forum.  
-The Vistula-Sakura is a non-profit, voluntary networking organization that connects scientists, engineers, and professionals from Poland and Japan. 
-Vistula-Sakura has no legal personality, no bank account, and no financial activity. 
-The Vistula-Sakura Forum has been granted the Honorary Patronage of [**The Embassy of the Republic of Poland in Tokyo.**](https://www.gov.pl/web/nippon)
+The name of this undertaking is Vistula-Sakura, The Polish-Japanese Research and Innovation Forum.
+The Vistula-Sakura is a non-profit, voluntary networking undertaking that connects scientists, engineers, and professionals from Poland and Japan.
+Vistula-Sakura has no legal personality, no bank account, and no financial activity.
+The Vistula-Sakura Forum has been granted the Honorary Patronage of [The Embassy of the Republic of Poland in Tokyo.](https://www.gov.pl/web/nippon)
 
 ### Article 2 – Purpose
 
@@ -21,7 +21,7 @@ The Vistula-Sakura aims to:
 
 ##Article 3 – Activities
 
-The Vistula-Sakura’s main goal is to facilitate cooperation and hold exchanges among Polish and Japanese researchers, universities, and industries. 
+The Vistula-Sakura’s main goal is to facilitate cooperation and hold exchanges among Polish and Japanese researchers, universities, and industries.
 Additional activities, such as an annual event (conference or symposium), seminars, online discussions, or collaborative projects, may be organized voluntarily by members.
 All activities are non-commercial and based on voluntary contributions.
 
@@ -38,7 +38,7 @@ The Vistula-Sakura is coordinated by two Coordinators (also referred to as “Co
 - One representative is Polish (proposed [Prof. Edyta DZIEMIŃSKA, Sophia University](https://pweb.cc.sophia.ac.jp/edyta/))
 
 The Coordinators:
-- Oversee the organization of events and initiatives.
+- Oversee the undertaking of events and initiatives.
 - Serve as contact persons for participants and partner institutions.
 - The Coordinators serve voluntarily and without compensation.
 
