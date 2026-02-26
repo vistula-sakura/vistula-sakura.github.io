@@ -19,7 +19,7 @@ The Vistula-Sakura aims to:
 - Support the exchange of knowledge, experience, and technology.
 - Organize academic and networking events, including an annual conference held in Japan and Poland.
 
-##Article 3 – Activities
+### Article 3 – Activities
 
 The Vistula-Sakura’s main goal is to facilitate cooperation and hold exchanges among Polish and Japanese researchers, universities, and industries.
 Additional activities, such as an annual event (conference or symposium), seminars, online discussions, or collaborative projects, may be organized voluntarily by members.
